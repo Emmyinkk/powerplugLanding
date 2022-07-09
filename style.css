@@ -96,8 +96,15 @@ span {
     max-width: 600px;
 }
 .mini {
-    font-size: 10px;
+    font-size: 14px;
     padding: 0;
     line-height: 0;
     text-align: center;
+    background: black;
+    color: white;
+    padding: 2em;
+}
+.max a{
+    font-size: 25px;
+    color: green;
 }
